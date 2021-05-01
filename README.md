@@ -1,3 +1,3 @@
 # SchoologyDarkMode
 
-## Using Chrome Extension Stylus
+Using Google Chrome Extension Stylus
