@@ -1,0 +1,61 @@
+body, .sgy-tabbed-navigation, #main-inner, .s-enable-course-dashboard.theme-2016-layout #home-feed-container, #main {
+    background-color: #0b0e11;
+}
+
+#main {
+    padding:0;
+}
+
+
+span, p, .s-like-sentence {
+    color:#ced2d9;
+    font-weight:bold;
+}
+
+.sExtlink-processed, a, div {
+    color:#fe4750;
+    font-weight:bold;
+}
+
+.s-like-sentence{
+    background-color:#242c37;
+}
+
+.feed-comments {
+    padding:0px;
+    border:7px solid #242c37;
+    border-left: 20px solid #242c37;
+    color:gray;
+    border-radius:8px;
+}
+
+#smart-box, .feed, .h3-med, .upcoming-list {
+    background-color:#151a21;
+}
+
+#home-feed-container > div.feed > div > ul > li, #home-feed-container #smart-box {
+    padding-left:20px;
+    padding-top:10px;
+    border-bottom: 0px;
+    border: 15px solid #0b0e11;
+    border-top:0px;
+}
+
+img {
+    border-radius:10px;
+}
+
+.theme-2016 #right-column-inner>div:not(:empty), .theme-2016-layout #right-column-inner>div:not(:empty) {
+    padding: 0;
+    border: 20px solid #151a21;
+}
+
+.upcoming-list {
+    border:0px;
+    padding:0px;
+}
+
+.date-header, .upcoming-event, h4,h3 {
+    padding:0px;
+    border:1px solid #151a21;
+}
